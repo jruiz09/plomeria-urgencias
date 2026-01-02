@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Helmet } from "react-helmet";
 import hero from "../assets/hero-plomeria1.png";
-import mobileHero from "../assets/Plomeria.jpg";
+import mobileHero from "../assets/plomeria.jpg";
 
 const Hero = () => {
   const wsp = "54911XXXXXXXX";
